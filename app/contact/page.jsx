@@ -179,16 +179,18 @@ const Contact = () => {
                 <SelectContent>
                   <SelectGroup>
                     <SelectLabel>Select a service</SelectLabel>
-                    <SelectItem value="frontend">
-                      Front-end Development
+                    <SelectItem value="PC-Hardware-Diagnostics">
+                      PC Hardware Diagnostics
                     </SelectItem>
-                    <SelectItem value="backend">
-                      Back-end Development
+                    <SelectItem value="System-Adminstrator">
+                      System Adminstrator
                     </SelectItem>
-                    <SelectItem value="fullstack">
-                      Full Stack Development
+                    <SelectItem value="CCTV&IP Network Setup">
+                      CCTV&IP Network Setup
                     </SelectItem>
-                    <SelectItem value="deployment">Deployment</SelectItem>
+                    <SelectItem value="C & Embedded Systems">
+                      C & Embedded Systems
+                    </SelectItem>
                   </SelectGroup>
                 </SelectContent>
               </Select>
