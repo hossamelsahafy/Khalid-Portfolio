@@ -50,7 +50,7 @@ const about = {
     },
   ],
 };
-// edu
+
 const Education = {
   icon: "/cap.svg",
   title: "Education",
